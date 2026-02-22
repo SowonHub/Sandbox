@@ -1,8 +1,8 @@
 ---
 name: "✨ feature: "
 about: Use this template to plan small features and experiments in the sandbox.
-title: "[FEAT]"
-labels: ''
+title: ''
+labels: enhancement
 assignees: ''
 
 ---

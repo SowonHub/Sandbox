@@ -1,8 +1,8 @@
 ---
 name: "♻️ refactor: "
 about: Use this template to improve structure or code quality.
-title: "[REFACTOR]"
-labels: ''
+title: ''
+labels: refactor
 assignees: ''
 
 ---
