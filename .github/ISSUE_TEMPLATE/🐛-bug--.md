@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B bug: "
 about: Use this template to report issues found during experiments.
-title: ''
+title: "\U0001F41B bug: "
 labels: bug
 assignees: ''
 
